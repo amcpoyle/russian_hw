@@ -1,0 +1,1 @@
+This is a script that takes in a PDF in Russian, parses it, translates each word, then returns a text file with side-by-side translation. Used during the Fall 2024 advanced Russian seminar term to help with homework problems and identifying important new vocabulary terms in a time-efficient manner.
